@@ -28,3 +28,4 @@ python olympics.py
 ```
 
 Then, visit your [localhost](http://127.0.0.1:8000) to view the webpage.
+
