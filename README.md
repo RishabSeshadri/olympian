@@ -34,4 +34,10 @@ python olympics.py
 
 Then, visit your [localhost](http://127.0.0.1:8000) to view the webpage.
 
+-----------------------------------------------
+
+## Authors:
+Sarayu Ramachandra, Rishab Seshadri
+
+
 ![image](https://github.com/user-attachments/assets/54562a51-cac9-42c0-be79-dbf5ae44019e)
